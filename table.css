@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #282b33;
+    color: white;
+    font-family: 'Roboto' , sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+table{
+    margin: 80px auto;
+    padding: 110px 150px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th , td {
+    border: 1px solid gray;
+
+}
+td{
+    padding: 20px;
+}
+
+#compare{
+    background-color: white;
+    color: #282b33;
+    padding: 10px 80px;
+}
+
+#starter{
+    background-color: #ff9b00;
+    padding: 10px 70px;
+}
+
+#advanced{
+    background-color: #ea3c43;
+    padding: 10px 70px;
+}
+
+#Enterprise{
+    background-color: #07b8c7;
+    padding: 10px 70px;
+}
+
+#discount1{
+    color: #ff9b00;
+    font-size: 30px;
+    font-weight: bold;
+}
+#discount2{
+    color:#ea3c43;
+    font-size: 30px;
+    font-weight: bold;
+}   
+#discount3{
+    color:#07b8c7;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+button{
+    border: none;
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: #ea3c43;
+    color: white;
+    font-size: 20px;
+}
